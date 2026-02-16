@@ -45,12 +45,22 @@ export default function Hero() {
             Built for Australian producers.
           </p>
           <div className="flex gap-4">
-            <button className="bg-primary text-white px-6 py-3 rounded-xl hover:bg-accent transition">
+            <motion.a
+              href="#cta"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="bg-primary text-white px-6 py-3 rounded-xl hover:bg-accent transition inline-block"
+            >
               Download App
-            </button>
-            <button className="border border-gray-300 px-6 py-3 rounded-xl hover:bg-gray-100 transition">
-              Learn More
-            </button>
+            </motion.a>
+            <a 
+            href="https://www.paypal.com/donate?hosted_button_id=XXXXXXXXX"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="border border-gray-300 px-6 py-3 rounded-xl hover:bg-gray-100 transition"
+            >
+              Donate
+            </a>
           </div>
         </div>
 
