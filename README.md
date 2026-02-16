@@ -1,11 +1,4 @@
 # NLISBuddy Website
-
-![NLISBuddy Logo](public/logo.png)
-
-**NLISBuddy** is a landing page for the NLISBuddy mobile app — a tool to simplify livestock compliance and NLIS record management for Australian producers.
-
-This repository contains the **React + Tailwind CSS source code** for the official NLISBuddy website
-
 ---
 ## **Installation**
 
