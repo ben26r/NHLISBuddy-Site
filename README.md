@@ -1,6 +1,6 @@
 # NLISBuddy Website
 
-![NLISBuddy Logo](public/favicon.ico)
+![NLISBuddy Logo](public/logo.png)
 
 **NLISBuddy** is a landing page for the NLISBuddy mobile app — a tool to simplify livestock compliance and NLIS record management for Australian producers.
 
